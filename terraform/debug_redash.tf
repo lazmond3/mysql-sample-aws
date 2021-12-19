@@ -1,8 +1,8 @@
-resource "aws_key_pair" "mmm3" {
-  key_name   = "mmm3"
-  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCVzrEB9jq/2jJSbKw+wv3fmP4vRurlAqnc827x3PDE6Nkdkyl++7JGBsG58QI/RAQjN/Z54Zy8l80LNbo3IJoNZAZ+0nALFdzJfORLWx3je69MQ5X6kLRh36PcBNkbxk+/QYaR3LOGOhwMN+GtK/6WNowNxTrg44KPV8wJicu/glqF9xJQn5+1Y4np+orr+TQr6GHlZDhQy7yeVd4XuEK1PAw+60tA53TAEktRB/RuiFb0/FmT7DsHg94txMD3Zvba0xl0SFSbVwdyDHRJrrDTykPnDkNdYj0KwmI2fTklNA1jvCjIFdiTGJBVfBCZDxB/1d/BbH1IbptWNnLl1ToX mmm2-name"
-  #   public_key = file("./p_rsa.pub")
-}
+# resource "aws_key_pair" "mmm3" {
+#   key_name   = "mmm3"
+#   public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCVzrEB9jq/2jJSbKw+wv3fmP4vRurlAqnc827x3PDE6Nkdkyl++7JGBsG58QI/RAQjN/Z54Zy8l80LNbo3IJoNZAZ+0nALFdzJfORLWx3je69MQ5X6kLRh36PcBNkbxk+/QYaR3LOGOhwMN+GtK/6WNowNxTrg44KPV8wJicu/glqF9xJQn5+1Y4np+orr+TQr6GHlZDhQy7yeVd4XuEK1PAw+60tA53TAEktRB/RuiFb0/FmT7DsHg94txMD3Zvba0xl0SFSbVwdyDHRJrrDTykPnDkNdYj0KwmI2fTklNA1jvCjIFdiTGJBVfBCZDxB/1d/BbH1IbptWNnLl1ToX mmm2-name"
+#   #   public_key = file("./p_rsa.pub")
+# }
 
 # resource "aws_subnet" "rds_debug_ec2_1" {
 #   vpc_id = var.vpc_id
@@ -43,7 +43,7 @@ resource "aws_eip" "redash_eip" {
     Name = "debug_ec2"
   }
 }
-resource "aws_eip_association" "eip_assoc" {
+resource "aws_eip_association" "eip_assoc_redash" {
   instance_id   = aws_instance.rds_redash.id
   allocation_id = aws_eip.redash_eip.id
 }
