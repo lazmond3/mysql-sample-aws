@@ -100,7 +100,7 @@ jobs:
 
       - name: Terraform Apply
         if: github.ref == 'refs/heads/master' && github.event_name == 'push'
-        run: terraform apply -auto-approve -var-file dev.auto.tfvars
+        run: terraform apply -auto-approve
         env:
           TF_VAR_password: ${{ secrets.TF_VAR_password }}
           TF_VAR_aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
