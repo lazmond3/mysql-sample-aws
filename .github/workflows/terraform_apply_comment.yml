@@ -85,7 +85,7 @@ jobs:
 
       - name: Terraform Apply
         id: apply
-        run: terraform apply -no-color -auto-approve -var-file dev.auto.tfvars
+        run: terraform apply -no-color -auto-approve
         env:
           TF_VAR_password: ${{ secrets.TF_VAR_password }}
           TF_VAR_aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}

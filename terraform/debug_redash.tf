@@ -31,7 +31,7 @@ resource "aws_instance" "rds_redash" {
   }
   # user_data          = "${file("./userdata/cloud-init.tpl")}"
   tags = {
-    Name = "rds_debug_ec2_1"
+    Name = "redash"
   }
 }
 
