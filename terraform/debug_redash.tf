@@ -17,7 +17,7 @@
 
 resource "aws_instance" "rds_redash" {
   ami           = "ami-060741a96307668be"
-  instance_type = "t2.micro"
+  instance_type = "t2.small"
   key_name      = aws_key_pair.mmm3.key_name
   vpc_security_group_ids = [
     aws_security_group.all_free_security.id
