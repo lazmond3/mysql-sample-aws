@@ -8,7 +8,7 @@ on:
 
 defaults:
   run:
-    working-directory: terraform/run/env/dev
+    working-directory: ./terraform/
 
 
 jobs:
@@ -35,12 +35,12 @@ jobs:
       - name: Terraform Format
         id: fmt
         run: terraform fmt -check -recursive
-        working-directory: ./terraform
+        # working-directory: ./terraform
 
       - name: Terraform Init
         id: init
         run: terraform init
-        working-directory: ./terraform
+        # working-directory: ./terraform
 
       - name: Terraform Plan
         id: plan
