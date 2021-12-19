@@ -1,0 +1,2147 @@
+[
+    {
+        "created_at": "Tue Aug 17 09:26:13 +0000 2021",
+        "id": 1427562399989518337,
+        "id_str": "1427562399989518337",
+        "full_text": "RT @Jumputi_Heroes: ／\n【5日目】毎日RTで参加できるぜぇ💪\n＼\n\n毎日15:00開始📢\n抽選でルビーなど豪華報酬が当たる！\nフォロー＆RTキャンペーン😉🏝\n\n▼参加方法\n1⃣@Jumputi_Heroesをフォロー\n2⃣この投稿をリツイート\n3⃣リプライで…",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Jumputi_Heroes",
+                    "name": "ジャンプチ広報局（ジャンプチ ヒーローズ公式）",
+                    "id": 956721095192723456,
+                    "id_str": "956721095192723456",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                },
+                {
+                    "screen_name": "Jumputi_Heroes",
+                    "name": "ジャンプチ広報局（ジャンプチ ヒーローズ公式）",
+                    "id": 956721095192723456,
+                    "id_str": "956721095192723456",
+                    "indices": [
+                        98,
+                        113
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Aug 17 06:00:31 +0000 2021",
+            "id": 1427510632941858831,
+            "id_str": "1427510632941858831",
+            "full_text": "／\n【5日目】毎日RTで参加できるぜぇ💪\n＼\n\n毎日15:00開始📢\n抽選でルビーなど豪華報酬が当たる！\nフォロー＆RTキャンペーン😉🏝\n\n▼参加方法\n1⃣@Jumputi_Heroesをフォロー\n2⃣この投稿をリツイート\n3⃣リプライで結果がすぐわかる\n\n#とびっきりアツいワイルドなジャンプチくじ\n#ジャンプチ #男塾",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                161
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "とびっきりアツいワイルドなジャンプチくじ",
+                        "indices": [
+                            129,
+                            150
+                        ]
+                    },
+                    {
+                        "text": "ジャンプチ",
+                        "indices": [
+                            151,
+                            157
+                        ]
+                    },
+                    {
+                        "text": "男塾",
+                        "indices": [
+                            158,
+                            161
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Jumputi_Heroes",
+                        "name": "ジャンプチ広報局（ジャンプチ ヒーローズ公式）",
+                        "id": 956721095192723456,
+                        "id_str": "956721095192723456",
+                        "indices": [
+                            78,
+                            93
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"https://shuttlerock.co.jp\" rel=\"nofollow\">Shuttlerock - Bluebird</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 956721095192723456,
+                "id_str": "956721095192723456",
+                "name": "ジャンプチ広報局（ジャンプチ ヒーローズ公式）",
+                "screen_name": "Jumputi_Heroes",
+                "location": "",
+                "description": "「ジャンプチ ヒーローズ」公式Twitterアカウントです！ゲームの最新情報やイベント情報などをお届けします♪ ※Twitterでの個別返信はできませんのでご了承ください。\n公式ブログはコチラ✏️→https://t.co/nlhUaOv21I",
+                "url": "https://t.co/dcsQAMWDhW",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/dcsQAMWDhW",
+                                "expanded_url": "https://jumputi.game.line.me/",
+                                "display_url": "jumputi.game.line.me",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/nlhUaOv21I",
+                                "expanded_url": "http://jumputi-heroes-blog.line.me/ja/",
+                                "display_url": "jumputi-heroes-blog.line.me/ja/",
+                                "indices": [
+                                    99,
+                                    122
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 407254,
+                "friends_count": 13,
+                "listed_count": 350,
+                "created_at": "Fri Jan 26 02:50:58 +0000 2018",
+                "favourites_count": 268,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 692722,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1470569570620489731/sEdB93bk_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1470569570620489731/sEdB93bk_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/956721095192723456/1628824677",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 27423,
+            "favorite_count": 4352,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        "is_quote_status": false,
+        "retweet_count": 27423,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Wed Mar 31 15:43:04 +0000 2021",
+        "id": 1377285322405376002,
+        "id_str": "1377285322405376002",
+        "full_text": "2年目ぇぇ〜ーー...！！！？",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            15
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Mon Mar 08 09:51:32 +0000 2021",
+        "id": 1368861934297083906,
+        "id_str": "1368861934297083906",
+        "full_text": "あと3週間ちょっとで、2年目...だと..？？体感ではなんなら昨日入社したくらいなんだが？？ちょっと、わたしだけ2倍速で人生進んでない？？",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            69
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Sun Mar 07 08:03:24 +0000 2021",
+        "id": 1368472335628390401,
+        "id_str": "1368472335628390401",
+        "full_text": "怪獣８号、「うおおぉ！！」ってなるめちゃくちゃ良いところで毎回終わるから本当焦らしプレイやってるわ、、6月まで待てないよ〜！",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            62
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Sat Mar 06 21:10:30 +0000 2021",
+        "id": 1368308028575911936,
+        "id_str": "1368308028575911936",
+        "full_text": "among usやってたら時間ほんと溶ける、、永遠に続く「じゃあこれが最後ね〜」のセリフ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            44
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Thu Sep 10 03:10:38 +0000 2020",
+        "id": 1303893616926965761,
+        "id_str": "1303893616926965761",
+        "full_text": "LINE DAY、カッコいい...",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            17
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Tue Aug 25 12:42:05 +0000 2020",
+        "id": 1298239222365659142,
+        "id_str": "1298239222365659142",
+        "full_text": "ちょっと疲れたなぁと思う7時のタイミングで、出澤さんの声めっちゃ良いなぁかっっこいいなぁと癒しの思いで聞いてました、運営に感謝🙏🏻",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            65
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Thu Aug 13 11:49:58 +0000 2020",
+        "id": 1293877452616265730,
+        "id_str": "1293877452616265730",
+        "full_text": "コミュニケーションストレスって無意識のうちにじわじわと感じてくる、、",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            34
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Tue Jul 07 14:58:35 +0000 2020",
+        "id": 1280516569899163651,
+        "id_str": "1280516569899163651",
+        "full_text": "成長実感を、、感じたい、、ひぃぃ〜",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            17
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Wed Jul 01 03:38:00 +0000 2020",
+        "id": 1278170965713666048,
+        "id_str": "1278170965713666048",
+        "full_text": "は、初めて自分が1から考えた企画がリリースされたァ〜〜〜！！！んギャァアァ嬉しい...！！",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            45
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Fri Jun 26 10:34:39 +0000 2020",
+        "id": 1276463883167731713,
+        "id_str": "1276463883167731713",
+        "full_text": "出社した日、社員証かけたまま電車乗っちゃって家帰ってからやっべ！ってなっちゃう、危ないあるある",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            47
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Thu Jun 25 12:40:05 +0000 2020",
+        "id": 1276133061189464064,
+        "id_str": "1276133061189464064",
+        "full_text": "健康診断、予約しなきゃ、、",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            13
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Thu Jun 11 12:49:59 +0000 2020",
+        "id": 1271062120717680646,
+        "id_str": "1271062120717680646",
+        "full_text": "明日初出社だ、、！一応入社して2ヶ月経ってるのになんだこの緊張感は、！！社員証もらえるの楽しみだなぁ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            50
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Mon Jun 01 15:16:19 +0000 2020",
+        "id": 1267475067367112704,
+        "id_str": "1267475067367112704",
+        "full_text": "@Sudo_Sho お忙しい中アドバイスありがとうございます😭😭たしかにです、気になったらその時に逐一聞くようにします！ https://t.co/7g9eA4RBWc",
+        "truncated": false,
+        "display_text_range": [
+            10,
+            60
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Sudo_Sho",
+                    "name": "Sudo Sho",
+                    "id": 1036302409486618625,
+                    "id_str": "1036302409486618625",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1267475060014473217,
+                    "id_str": "1267475060014473217",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EZb52gnUYAENG3V.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EZb52gnUYAENG3V.jpg",
+                    "url": "https://t.co/7g9eA4RBWc",
+                    "display_url": "pic.twitter.com/7g9eA4RBWc",
+                    "expanded_url": "https://twitter.com/YurinaHamasaki/status/1267475067367112704/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 708,
+                            "h": 408,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 708,
+                            "h": 408,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 392,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1267475060014473217,
+                    "id_str": "1267475060014473217",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EZb52gnUYAENG3V.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EZb52gnUYAENG3V.jpg",
+                    "url": "https://t.co/7g9eA4RBWc",
+                    "display_url": "pic.twitter.com/7g9eA4RBWc",
+                    "expanded_url": "https://twitter.com/YurinaHamasaki/status/1267475067367112704/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 708,
+                            "h": 408,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 708,
+                            "h": 408,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 392,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1267465442081161216,
+        "in_reply_to_status_id_str": "1267465442081161216",
+        "in_reply_to_user_id": 1036302409486618625,
+        "in_reply_to_user_id_str": "1036302409486618625",
+        "in_reply_to_screen_name": "Sudo_Sho",
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Mon Jun 01 09:51:55 +0000 2020",
+        "id": 1267393430541352960,
+        "id_str": "1267393430541352960",
+        "full_text": "@Sudo_Sho リプありがとうございます😭そうですよね、質問できることが新卒の特権だと開き直ってたくさん聞こうと思います！",
+        "truncated": false,
+        "display_text_range": [
+            10,
+            63
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Sudo_Sho",
+                    "name": "Sudo Sho",
+                    "id": 1036302409486618625,
+                    "id_str": "1036302409486618625",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1267390334440370177,
+        "in_reply_to_status_id_str": "1267390334440370177",
+        "in_reply_to_user_id": 1036302409486618625,
+        "in_reply_to_user_id_str": "1036302409486618625",
+        "in_reply_to_screen_name": "Sudo_Sho",
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Mon Jun 01 08:27:24 +0000 2020",
+        "id": 1267372162186280961,
+        "id_str": "1267372162186280961",
+        "full_text": "理解力が壊滅的に乏しいので、何回も同じこと聞きながらも3回目くらいになるとそろそろ迷惑かけてしまうなと思い、あーなるほどですわかりました！と分かったフリをしてしまう、全然分かってないくせにね！自滅！",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            99
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Sun May 24 17:08:07 +0000 2020",
+        "id": 1264604102379450368,
+        "id_str": "1264604102379450368",
+        "full_text": "(はぁ〜〜また月曜日がやってく...)えええーーー！！？もう！！2回目の給料！！入ってるんですケドーー！！！！！すご！！！！すごすぎ！！お給料のチカラすごすぎ！！！月曜万歳！！！！",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            90
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Sun May 24 11:31:22 +0000 2020",
+        "id": 1264519355842232320,
+        "id_str": "1264519355842232320",
+        "full_text": "休日2日...足りない...🥺",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            15
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Sun May 17 09:39:36 +0000 2020",
+        "id": 1261954512513687554,
+        "id_str": "1261954512513687554",
+        "full_text": "スーパー行くために駅前まで歩いたら、結構の人が普通に外で飲んでたりお店が賑わってたりして、「あ、もう良いんだ。」って錯覚しちゃうな",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            65
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Thu May 14 10:23:06 +0000 2020",
+        "id": 1260878295375032324,
+        "id_str": "1260878295375032324",
+        "full_text": "マウントレーニア飲んでるだけでこんな爽やかみ溢れさせる上に最後の集中しよ！って感じでちょっと猫背になるとこもめっちゃ良い、、今すぐマウントレーニア買ってこよ。 https://t.co/uUodUn3c4L",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            79
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/uUodUn3c4L",
+                    "expanded_url": "https://twitter.com/mtrainier_jp/status/1260706387488735232",
+                    "display_url": "twitter.com/mtrainier_jp/s…",
+                    "indices": [
+                        80,
+                        103
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250448698561069056,
+            "id_str": "1250448698561069056",
+            "name": "ハマサキユリナ",
+            "screen_name": "YurinaHamasaki",
+            "location": "高知⇄東京",
+            "description": "LINE20｜主にドラマと漫画と日常のくだらないことなど。ツイート更新頑張ります。",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Wed Apr 15 15:39:49 +0000 2020",
+            "favourites_count": 36,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368308471100100609/_GZb5TlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250448698561069056/1588908032",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1260706387488735232,
+        "quoted_status_id_str": "1260706387488735232",
+        "quoted_status_permalink": {
+            "url": "https://t.co/uUodUn3c4L",
+            "expanded": "https://twitter.com/mtrainier_jp/status/1260706387488735232",
+            "display": "twitter.com/mtrainier_jp/s…"
+        },
+        "quoted_status": {
+            "created_at": "Wed May 13 23:00:00 +0000 2020",
+            "id": 1260706387488735232,
+            "id_str": "1260706387488735232",
+            "full_text": "☕️　　　🍃　　　☕️　　　🍃　　☕️\n#窪田正孝 さんがあの名曲を披露🎤 \n　　#マウントレーニア 新CM \n🍃　　　☕️　　　🍃　　　☕️　　🍃\n\nCM挿入歌「風をあつめて」を歌うのは窪田さん！\n心ほどける歌声に注目の貴重なレコーディング動画を大公開✨\n音声をオンにしてご覧ください👇\n\n#ほどいてすすめ https://t.co/5A7j3dvtOU",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                154
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "窪田正孝",
+                        "indices": [
+                            20,
+                            25
+                        ]
+                    },
+                    {
+                        "text": "マウントレーニア",
+                        "indices": [
+                            41,
+                            50
+                        ]
+                    },
+                    {
+                        "text": "ほどいてすすめ",
+                        "indices": [
+                            146,
+                            154
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1260113563919585280,
+                        "id_str": "1260113563919585280",
+                        "indices": [
+                            155,
+                            178
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EXzVPXyUcAA9KWa.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EXzVPXyUcAA9KWa.jpg",
+                        "url": "https://t.co/5A7j3dvtOU",
+                        "display_url": "pic.twitter.com/5A7j3dvtOU",
+                        "expanded_url": "https://twitter.com/mtrainier_jp/status/1260706387488735232/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1671,
+                                "h": 941,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 676,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1260113563919585280,
+                        "id_str": "1260113563919585280",
+                        "indices": [
+                            155,
+                            178
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EXzVPXyUcAA9KWa.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EXzVPXyUcAA9KWa.jpg",
+                        "url": "https://t.co/5A7j3dvtOU",
+                        "display_url": "pic.twitter.com/5A7j3dvtOU",
+                        "expanded_url": "https://twitter.com/mtrainier_jp/status/1260706387488735232/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1671,
+                                "h": 941,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 676,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 90007,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1260113563919585280/pl/5rBjz8SPLtiv1VtX.m3u8?tag=13"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1260113563919585280/vid/640x360/Gph4_uLuBRo3wPrf.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1260113563919585280/vid/1280x720/QV3_zkMIckSt3ReL.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 288000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1260113563919585280/vid/480x270/9dsnTkGkHcRyjEiS.mp4?tag=13"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers.</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1221808433315188739,
+                "id_str": "1221808433315188739",
+                "name": "マウントレーニア(Mt.RAINIER)",
+                "screen_name": "mtrainier_jp",
+                "location": "",
+                "description": "森永乳業マウントレーニアの公式アカウントです。 新製品やキャンペーン告知をツイートします。 ※当アカウントは発信専用です。DMは受け付けておりません。",
+                "url": "https://t.co/F00T4km4BI",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/F00T4km4BI",
+                                "expanded_url": "https://www.mtrainier.jp/",
+                                "display_url": "mtrainier.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 140274,
+                "friends_count": 0,
+                "listed_count": 253,
+                "created_at": "Mon Jan 27 14:54:06 +0000 2020",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 330935,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1440481029953785858/7yGxSspz_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1440481029953785858/7yGxSspz_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221808433315188739/1618277406",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4150,
+            "favorite_count": 10682,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    }
+]

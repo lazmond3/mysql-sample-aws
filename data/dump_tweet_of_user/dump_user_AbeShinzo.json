@@ -1,0 +1,3641 @@
+[
+    {
+        "created_at": "Sat Dec 18 12:30:05 +0000 2021",
+        "id": 1472182378034790410,
+        "id_str": "1472182378034790410",
+        "full_text": "飯塚繁雄拉致被害者家族会前代表がご逝去されました。長年、渾身の力を振り絞って運動を牽引してこられました。ご期待に応えられず、申し訳ない気持ちでいっぱいです。全ての拉致被害者の帰国実現に向けて全力を尽くします。ご冥福を心からお祈り致します。\n@Sankei_news より\nhttps://t.co/5Az4k2lmfH",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            159
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Sankei_news",
+                    "name": "産経ニュース",
+                    "id": 562773398,
+                    "id_str": "562773398",
+                    "indices": [
+                        120,
+                        132
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/5Az4k2lmfH",
+                    "expanded_url": "https://www.sankei.com/article/20211218-2IRQYQKUE5IJVGBLE7ZUM3X7AY/",
+                    "display_url": "sankei.com/article/202112…",
+                    "indices": [
+                        136,
+                        159
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1470,
+        "favorite_count": 7479,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Tue Dec 14 08:10:49 +0000 2021",
+        "id": 1470667582013591553,
+        "id_str": "1470667582013591553",
+        "full_text": "「台米日インド太平洋安全保障対話」にてキーノートスピーチをいたしました。宜しければご覧ください。\nhttps://t.co/JgHQy7jJTx https://t.co/oUEzcYDrx0",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            72
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/JgHQy7jJTx",
+                    "expanded_url": "https://youtu.be/XaZrlkRm7S8",
+                    "display_url": "youtu.be/XaZrlkRm7S8",
+                    "indices": [
+                        49,
+                        72
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1470667575885402115,
+                    "id_str": "1470667575885402115",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FGjcXktVkAMdZ8x.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FGjcXktVkAMdZ8x.jpg",
+                    "url": "https://t.co/oUEzcYDrx0",
+                    "display_url": "pic.twitter.com/oUEzcYDrx0",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1470667582013591553/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1470667575885402115,
+                    "id_str": "1470667575885402115",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FGjcXktVkAMdZ8x.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FGjcXktVkAMdZ8x.jpg",
+                    "url": "https://t.co/oUEzcYDrx0",
+                    "display_url": "pic.twitter.com/oUEzcYDrx0",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1470667582013591553/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3322,
+        "favorite_count": 16660,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Mon Dec 13 09:26:33 +0000 2021",
+        "id": 1470324252402675713,
+        "id_str": "1470324252402675713",
+        "full_text": "本日、12月13日(月)22:00〜\nBS日テレ「深層NEWS 」に出演致します。\n真珠湾攻撃から80年、日米同盟の未来と課題について話します。\nどうぞご覧ください。\nhttps://t.co/W3aS21V3cp",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            107
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/W3aS21V3cp",
+                    "expanded_url": "https://www.bs4.jp/shinsou/",
+                    "display_url": "bs4.jp/shinsou/",
+                    "indices": [
+                        84,
+                        107
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1027,
+        "favorite_count": 5751,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Tue Dec 07 04:00:07 +0000 2021",
+        "id": 1468067773578625030,
+        "id_str": "1468067773578625030",
+        "full_text": "本日、12月7日(火)20:00～BSフジLIVE プライムニュースに出演致します。どうぞご覧ください。\nhttps://t.co/ODjpbgtxJ9 https://t.co/uMZdZIj4XC",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            76
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ODjpbgtxJ9",
+                    "expanded_url": "https://www.bsfuji.tv/primenews/",
+                    "display_url": "bsfuji.tv/primenews/",
+                    "indices": [
+                        53,
+                        76
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1468067767975026695,
+                    "id_str": "1468067767975026695",
+                    "indices": [
+                        77,
+                        100
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FF-f21haIAcIa_Q.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FF-f21haIAcIa_Q.jpg",
+                    "url": "https://t.co/uMZdZIj4XC",
+                    "display_url": "pic.twitter.com/uMZdZIj4XC",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1468067773578625030/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1151,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 674,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1468067767975026695,
+                    "id_str": "1468067767975026695",
+                    "indices": [
+                        77,
+                        100
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FF-f21haIAcIa_Q.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FF-f21haIAcIa_Q.jpg",
+                    "url": "https://t.co/uMZdZIj4XC",
+                    "display_url": "pic.twitter.com/uMZdZIj4XC",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1468067773578625030/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1151,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 674,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2408,
+        "favorite_count": 14174,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Mon Dec 06 14:48:42 +0000 2021",
+        "id": 1467868609200689152,
+        "id_str": "1467868609200689152",
+        "full_text": "本日、「清和政策研究会との懇親の集い」が開催され、清和研会長としてご挨拶致しました。二度にわたり延期となりご迷惑をおかけしましたが、たくさんの方にお越しいただきコロナ対策を取る中で盛大に開催することができました。心から御礼を申し上げたいと思います。\nhttps://t.co/PDg7tvlpUx https://t.co/VzU5rOulfd",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            148
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/PDg7tvlpUx",
+                    "expanded_url": "https://youtu.be/yKRJnfxx3_Y",
+                    "display_url": "youtu.be/yKRJnfxx3_Y",
+                    "indices": [
+                        125,
+                        148
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1467868604612116480,
+                    "id_str": "1467868604612116480",
+                    "indices": [
+                        149,
+                        172
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FF7quALagAAH20v.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FF7quALagAAH20v.jpg",
+                    "url": "https://t.co/VzU5rOulfd",
+                    "display_url": "pic.twitter.com/VzU5rOulfd",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1467868609200689152/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1467868604612116480,
+                    "id_str": "1467868604612116480",
+                    "indices": [
+                        149,
+                        172
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FF7quALagAAH20v.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FF7quALagAAH20v.jpg",
+                    "url": "https://t.co/VzU5rOulfd",
+                    "display_url": "pic.twitter.com/VzU5rOulfd",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1467868609200689152/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1696,
+        "favorite_count": 12184,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Wed Dec 01 08:55:38 +0000 2021",
+        "id": 1465967815379226626,
+        "id_str": "1465967815379226626",
+        "full_text": "國策研究院主催のインパクト・フォーラムでキーノートスピーチを行いました。日本と台湾を取り巻く環境をわたくしはどう見ているか、次に中国に自制ある行動を促すにはどうすべきか、この目的のために何をしてきたか。今後何をすべきかについてお話をしました。\nhttps://t.co/s6fWYPx7n7 https://t.co/fKBtYfqYcT",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            145
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/s6fWYPx7n7",
+                    "expanded_url": "https://youtu.be/qkwCMattztQ",
+                    "display_url": "youtu.be/qkwCMattztQ",
+                    "indices": [
+                        122,
+                        145
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1465967810317000705,
+                    "id_str": "1465967810317000705",
+                    "indices": [
+                        146,
+                        169
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FFgp9NoaIAEkmgU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FFgp9NoaIAEkmgU.jpg",
+                    "url": "https://t.co/fKBtYfqYcT",
+                    "display_url": "pic.twitter.com/fKBtYfqYcT",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1465967815379226626/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1465967810317000705,
+                    "id_str": "1465967810317000705",
+                    "indices": [
+                        146,
+                        169
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FFgp9NoaIAEkmgU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FFgp9NoaIAEkmgU.jpg",
+                    "url": "https://t.co/fKBtYfqYcT",
+                    "display_url": "pic.twitter.com/fKBtYfqYcT",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1465967815379226626/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3683,
+        "favorite_count": 18765,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Fri Nov 26 14:14:22 +0000 2021",
+        "id": 1464236091087622157,
+        "id_str": "1464236091087622157",
+        "full_text": "五条市→五條市\n誤植が御座いましたので、訂正致します。",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            27
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1463862654775152650,
+        "in_reply_to_status_id_str": "1463862654775152650",
+        "in_reply_to_user_id": 468122115,
+        "in_reply_to_user_id_str": "468122115",
+        "in_reply_to_screen_name": "AbeShinzo",
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 335,
+        "favorite_count": 4462,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Thu Nov 25 13:30:28 +0000 2021",
+        "id": 1463862654775152650,
+        "id_str": "1463862654775152650",
+        "full_text": "総理時代に毎年お越し頂いた荒井奈良県知事、太田五条市長が柿生産者の皆さんと共に事務所を訪問してくれました。試食も致しました。深みのある甘さ、そしてもちろんジューシーでした。\n#富有柿 #ジューシー https://t.co/rQAgbacHm8",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            98
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "富有柿",
+                    "indices": [
+                        87,
+                        91
+                    ]
+                },
+                {
+                    "text": "ジューシー",
+                    "indices": [
+                        92,
+                        98
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1463862649444519942,
+                    "id_str": "1463862649444519942",
+                    "indices": [
+                        99,
+                        122
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FFCvUuQaUAYjc0G.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FFCvUuQaUAYjc0G.jpg",
+                    "url": "https://t.co/rQAgbacHm8",
+                    "display_url": "pic.twitter.com/rQAgbacHm8",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1463862654775152650/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1463862649444519942,
+                    "id_str": "1463862649444519942",
+                    "indices": [
+                        99,
+                        122
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FFCvUuQaUAYjc0G.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FFCvUuQaUAYjc0G.jpg",
+                    "url": "https://t.co/rQAgbacHm8",
+                    "display_url": "pic.twitter.com/rQAgbacHm8",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1463862654775152650/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5259,
+        "favorite_count": 35018,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Mon Nov 22 05:55:18 +0000 2021",
+        "id": 1462660944090189830,
+        "id_str": "1462660944090189830",
+        "full_text": "先般、シドニーダイアログにリモートで参加し、基調講演を行い主催者ハワード元豪州首相の質問に応えました。インド太平洋地域の平和と繁栄をいかに守っていくかが主なテーマです。\nhttps://t.co/I9QH9sMViz https://t.co/xJ6MSWluxR",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            108
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/I9QH9sMViz",
+                    "expanded_url": "https://www.youtube.com/watch?v=hvRDeLrI4Lg",
+                    "display_url": "youtube.com/watch?v=hvRDeL…",
+                    "indices": [
+                        85,
+                        108
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1462660939594219521,
+                    "id_str": "1462660939594219521",
+                    "indices": [
+                        109,
+                        132
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FExqYANaQAEbXNM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FExqYANaQAEbXNM.jpg",
+                    "url": "https://t.co/xJ6MSWluxR",
+                    "display_url": "pic.twitter.com/xJ6MSWluxR",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1462660944090189830/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1462660939594219521,
+                    "id_str": "1462660939594219521",
+                    "indices": [
+                        109,
+                        132
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FExqYANaQAEbXNM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FExqYANaQAEbXNM.jpg",
+                    "url": "https://t.co/xJ6MSWluxR",
+                    "display_url": "pic.twitter.com/xJ6MSWluxR",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1462660944090189830/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2787,
+        "favorite_count": 15142,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Fri Nov 19 09:26:45 +0000 2021",
+        "id": 1461626994177679362,
+        "id_str": "1461626994177679362",
+        "full_text": "コロナ対応のため自衛隊殉職隊員追悼式に一日先んじて、献花を行いました。2,019柱の御霊の前で、謹んで、追悼の誠を捧げました。強い使命感と責任感をもって、職務の遂行に全身全霊を捧げた彼らは、日本の誇りです。私たちは、その勇姿と名前を、永遠に心に刻みつけてまいります。 https://t.co/xFdnLm8hVZ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            133
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1461626985210589184,
+                    "id_str": "1461626985210589184",
+                    "indices": [
+                        134,
+                        157
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FEi9_7-aMAA1ie1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FEi9_7-aMAA1ie1.jpg",
+                    "url": "https://t.co/xFdnLm8hVZ",
+                    "display_url": "pic.twitter.com/xFdnLm8hVZ",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1461626994177679362/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 798,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1362,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1461626985210589184,
+                    "id_str": "1461626985210589184",
+                    "indices": [
+                        134,
+                        157
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FEi9_7-aMAA1ie1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FEi9_7-aMAA1ie1.jpg",
+                    "url": "https://t.co/xFdnLm8hVZ",
+                    "display_url": "pic.twitter.com/xFdnLm8hVZ",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1461626994177679362/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 798,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1362,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6084,
+        "favorite_count": 35367,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Thu Nov 11 06:30:19 +0000 2021",
+        "id": 1458683487867727872,
+        "id_str": "1458683487867727872",
+        "full_text": "本日、清和政策研究会の会長に就任致しました。町村元会長の跡を受け党内最大の政策グループに育て上げられた細田前会長に敬意と感謝の意を表したいと思います。次の世代へ誇りある日本を引き継いでいくために会長として清和研の皆さまと共に力を尽くして参ります。#清和研 https://t.co/YELV4bxJqT https://t.co/bo0QhB7ss9",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            151
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "清和研",
+                    "indices": [
+                        123,
+                        127
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/YELV4bxJqT",
+                    "expanded_url": "https://youtu.be/AbpuA2OaVv8",
+                    "display_url": "youtu.be/AbpuA2OaVv8",
+                    "indices": [
+                        128,
+                        151
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1458683481543028738,
+                    "id_str": "1458683481543028738",
+                    "indices": [
+                        152,
+                        175
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FD5I5eUaMAIdXJe.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FD5I5eUaMAIdXJe.jpg",
+                    "url": "https://t.co/bo0QhB7ss9",
+                    "display_url": "pic.twitter.com/bo0QhB7ss9",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1458683487867727872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1600,
+                            "h": 900,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1458683481543028738,
+                    "id_str": "1458683481543028738",
+                    "indices": [
+                        152,
+                        175
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FD5I5eUaMAIdXJe.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FD5I5eUaMAIdXJe.jpg",
+                    "url": "https://t.co/bo0QhB7ss9",
+                    "display_url": "pic.twitter.com/bo0QhB7ss9",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1458683487867727872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1600,
+                            "h": 900,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5960,
+        "favorite_count": 34828,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Wed Nov 03 16:28:56 +0000 2021",
+        "id": 1455935033575809030,
+        "id_str": "1455935033575809030",
+        "full_text": "堤さんが「オモロイ本」と評価。 https://t.co/osE6RJ8z8e",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            15
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/osE6RJ8z8e",
+                    "expanded_url": "https://twitter.com/ProfShimada/status/1452780858213945348",
+                    "display_url": "twitter.com/ProfShimada/st…",
+                    "indices": [
+                        16,
+                        39
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1452780858213945348,
+        "quoted_status_id_str": "1452780858213945348",
+        "quoted_status_permalink": {
+            "url": "https://t.co/osE6RJ8z8e",
+            "expanded": "https://twitter.com/ProfShimada/status/1452780858213945348",
+            "display": "twitter.com/ProfShimada/st…"
+        },
+        "quoted_status": {
+            "created_at": "Mon Oct 25 23:35:22 +0000 2021",
+            "id": 1452780858213945348,
+            "id_str": "1452780858213945348",
+            "full_text": "今日発売の月刊Hanada 12月号「堤堯の今月この一冊」で拙著『アメリカ解体』（ビジネス社）を取り上げて頂いた。\n末尾の「秘話テンコ盛りのオモロイ本だ」は著者にとって嬉しい評言だ。感謝したい。 https://t.co/cnLmgPqmKw",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                97
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1452780846516097026,
+                        "id_str": "1452780846516097026",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FClQe5UVUAI10J6.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FClQe5UVUAI10J6.jpg",
+                        "url": "https://t.co/cnLmgPqmKw",
+                        "display_url": "pic.twitter.com/cnLmgPqmKw",
+                        "expanded_url": "https://twitter.com/ProfShimada/status/1452780858213945348/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 584,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1031,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1760,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1452780846516097026,
+                        "id_str": "1452780846516097026",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FClQe5UVUAI10J6.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FClQe5UVUAI10J6.jpg",
+                        "url": "https://t.co/cnLmgPqmKw",
+                        "display_url": "pic.twitter.com/cnLmgPqmKw",
+                        "expanded_url": "https://twitter.com/ProfShimada/status/1452780858213945348/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 584,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1031,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1760,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 130544832,
+                "id_str": "130544832",
+                "name": "島田洋一（Shimada Yoichi）",
+                "screen_name": "ProfShimada",
+                "location": "日本",
+                "description": "福井県立大学教授（Professor at Fukui Prefectural University, Japan）、国家基本問題研究所企画委員（JINF Senior Fellow）、拉致被害者を「救う会」全国協議会副会長（NARKN Vice Chairman）",
+                "url": "https://t.co/3elgGy0bsi",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/3elgGy0bsi",
+                                "expanded_url": "https://en.jinf.jp",
+                                "display_url": "en.jinf.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 30048,
+                "friends_count": 99,
+                "listed_count": 276,
+                "created_at": "Wed Apr 07 16:11:57 +0000 2010",
+                "favourites_count": 25,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 10489,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2588779301/rumjdkgic5je0j5951hv_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2588779301/rumjdkgic5je0j5951hv_normal.jpeg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 240,
+            "favorite_count": 1174,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        "retweet_count": 2007,
+        "favorite_count": 12549,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Mon Nov 01 04:46:31 +0000 2021",
+        "id": 1455033487589666816,
+        "id_str": "1455033487589666816",
+        "full_text": "皆様の力強いご支援により、10回目の当選を果たすことができました。全国の同志応援の為ほとんど地元に戻れない中、頑張って頂いたスタッフ、支持者の皆様、そして励まし応援して頂いた全ての皆様に厚く御礼を申し上げます。ありがとうございました。皆様のご期待に応えるべく全力を尽くして参ります。 https://t.co/hj2ywaYtpw",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            141
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1455033480757510144,
+                    "id_str": "1455033480757510144",
+                    "indices": [
+                        142,
+                        165
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FDFRPdzaAAAWOCb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FDFRPdzaAAAWOCb.jpg",
+                    "url": "https://t.co/hj2ywaYtpw",
+                    "display_url": "pic.twitter.com/hj2ywaYtpw",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1455033487589666816/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1990,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 661,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1166,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1455033480757510144,
+                    "id_str": "1455033480757510144",
+                    "indices": [
+                        142,
+                        165
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FDFRPdzaAAAWOCb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FDFRPdzaAAAWOCb.jpg",
+                    "url": "https://t.co/hj2ywaYtpw",
+                    "display_url": "pic.twitter.com/hj2ywaYtpw",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1455033487589666816/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1990,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 661,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1166,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5699,
+        "favorite_count": 46990,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Sat Oct 30 09:22:00 +0000 2021",
+        "id": 1454378038607499267,
+        "id_str": "1454378038607499267",
+        "full_text": "12年ぶりに選挙最終日下関駅前で街頭演説を行いました。櫻井よしこさんにもお越し頂き、急な開催決定にも関わらず沢山の皆さまにお集まり頂き感謝の気持ちでいっぱいです。YouTubeでは、合計29,000人の方に視聴して頂きました。 https://t.co/3G04368cMz",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            113
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1454378031490150400,
+                    "id_str": "1454378031490150400",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FC79HTAaMAAj1hy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FC79HTAaMAAj1hy.jpg",
+                    "url": "https://t.co/3G04368cMz",
+                    "display_url": "pic.twitter.com/3G04368cMz",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1454378038607499267/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1542,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 904,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1454378031490150400,
+                    "id_str": "1454378031490150400",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FC79HTAaMAAj1hy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FC79HTAaMAAj1hy.jpg",
+                    "url": "https://t.co/3G04368cMz",
+                    "display_url": "pic.twitter.com/3G04368cMz",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1454378038607499267/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1542,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 904,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1454378031498559488,
+                    "id_str": "1454378031498559488",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FC79HTCagAA9qhp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FC79HTCagAA9qhp.jpg",
+                    "url": "https://t.co/3G04368cMz",
+                    "display_url": "pic.twitter.com/3G04368cMz",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1454378038607499267/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1477,
+                            "h": 1108,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4403,
+        "favorite_count": 28375,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Sat Oct 30 01:39:19 +0000 2021",
+        "id": 1454261601188548616,
+        "id_str": "1454261601188548616",
+        "full_text": "いよいよ選挙戦最終日となりました。本日、17時からシーモール前にて応援弁士として櫻井よしこ様にお越し頂きまして街頭演説会を実施致します。その模様をあべ晋三チャンネルにて生配信を予定しております。今回の選挙戦最後の演説、是非ご覧下さい。宜しくお願いします。https://t.co/XqOQW0mUZd https://t.co/ONunhgXnJJ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            150
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/XqOQW0mUZd",
+                    "expanded_url": "https://youtu.be/nQaJ0wHk3Y0",
+                    "display_url": "youtu.be/nQaJ0wHk3Y0",
+                    "indices": [
+                        127,
+                        150
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1454261595769819136,
+                    "id_str": "1454261595769819136",
+                    "indices": [
+                        151,
+                        174
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FC6TN2JaUAALRzn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FC6TN2JaUAALRzn.jpg",
+                    "url": "https://t.co/ONunhgXnJJ",
+                    "display_url": "pic.twitter.com/ONunhgXnJJ",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1454261601188548616/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1706,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1454261595769819136,
+                    "id_str": "1454261595769819136",
+                    "indices": [
+                        151,
+                        174
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FC6TN2JaUAALRzn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FC6TN2JaUAALRzn.jpg",
+                    "url": "https://t.co/ONunhgXnJJ",
+                    "display_url": "pic.twitter.com/ONunhgXnJJ",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1454261601188548616/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1706,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3117,
+        "favorite_count": 15980,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Fri Oct 29 10:09:16 +0000 2021",
+        "id": 1454027548287930371,
+        "id_str": "1454027548287930371",
+        "full_text": "安全保障担当総理補佐官として「自由で開かれたインド太平洋構想」の各国の理解・共有に向けて大きな力を発揮した将来の自民党を担う我が党のホープ、木原みのる候補。どうぞ宜しくお願いします。#熊本1区 https://t.co/06S76pgymm",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            96
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "熊本1区",
+                    "indices": [
+                        91,
+                        96
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1454027537852829696,
+                    "id_str": "1454027537852829696",
+                    "indices": [
+                        97,
+                        120
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FC2-V4dakAAw-wY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FC2-V4dakAAw-wY.jpg",
+                    "url": "https://t.co/06S76pgymm",
+                    "display_url": "pic.twitter.com/06S76pgymm",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1454027548287930371/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 386,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1037,
+                            "h": 588,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1037,
+                            "h": 588,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1454027537852829696,
+                    "id_str": "1454027537852829696",
+                    "indices": [
+                        97,
+                        120
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FC2-V4dakAAw-wY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FC2-V4dakAAw-wY.jpg",
+                    "url": "https://t.co/06S76pgymm",
+                    "display_url": "pic.twitter.com/06S76pgymm",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1454027548287930371/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 386,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1037,
+                            "h": 588,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1037,
+                            "h": 588,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1931,
+        "favorite_count": 11095,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Fri Oct 29 10:08:42 +0000 2021",
+        "id": 1454027404595269638,
+        "id_str": "1454027404595269638",
+        "full_text": "自民党きっての税制の専門家。ポストコロナ時代にふさわしい税制の在り方を模索していく上で大切な重鎮、野田たけし候補。宜しくお願いします。#熊本2区 https://t.co/I1xSxCOZ5U",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            72
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "熊本2区",
+                    "indices": [
+                        67,
+                        72
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1454027385050136576,
+                    "id_str": "1454027385050136576",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FC2-M_OagAAg9_p.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FC2-M_OagAAg9_p.jpg",
+                    "url": "https://t.co/I1xSxCOZ5U",
+                    "display_url": "pic.twitter.com/I1xSxCOZ5U",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1454027404595269638/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1454027385050136576,
+                    "id_str": "1454027385050136576",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FC2-M_OagAAg9_p.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FC2-M_OagAAg9_p.jpg",
+                    "url": "https://t.co/I1xSxCOZ5U",
+                    "display_url": "pic.twitter.com/I1xSxCOZ5U",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1454027404595269638/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1538,
+        "favorite_count": 9928,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Fri Oct 29 08:47:44 +0000 2021",
+        "id": 1454007028154650625,
+        "id_str": "1454007028154650625",
+        "full_text": "RT @TsuchiyaMasatad: 菅直人元総理からの抗議に対する反論 裁判所が下した「3.11福島原発　海水注入中断　“間違った判断と嘘”」 最高裁まで争って確定した判決を無視するのでしょうか https://t.co/beBaHmwK8G",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            124
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TsuchiyaMasatad",
+                    "name": "土屋 正忠",
+                    "id": 2915536712,
+                    "id_str": "2915536712",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/beBaHmwK8G",
+                    "expanded_url": "https://bit.ly/3mm6oTH",
+                    "display_url": "bit.ly/3mm6oTH",
+                    "indices": [
+                        101,
+                        124
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Oct 28 00:34:20 +0000 2021",
+            "id": 1453520472428011520,
+            "id_str": "1453520472428011520",
+            "full_text": "菅直人元総理からの抗議に対する反論 裁判所が下した「3.11福島原発　海水注入中断　“間違った判断と嘘”」 最高裁まで争って確定した判決を無視するのでしょうか https://t.co/beBaHmwK8G",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                103
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/beBaHmwK8G",
+                        "expanded_url": "https://bit.ly/3mm6oTH",
+                        "display_url": "bit.ly/3mm6oTH",
+                        "indices": [
+                            80,
+                            103
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.tsuchiya-masatada.com\" rel=\"nofollow\">tsuchiya-masatada-web</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2915536712,
+                "id_str": "2915536712",
+                "name": "土屋 正忠",
+                "screen_name": "TsuchiyaMasatad",
+                "location": "東京都第18選挙区 ｜ 武蔵野 府中 小金井",
+                "description": "早稲田大学法学部卒業、武蔵野市役所勤務、市議会議員を経て、武蔵野市長22年、衆議院議員3期8年。地方自治の現場を知りぬく首長経験者として多様な議員立法に取り組みました。日本野鳥の会顧問。",
+                "url": "https://t.co/G7HQ4XmU6e",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/G7HQ4XmU6e",
+                                "expanded_url": "http://www.tsuchiya-masatada.com/",
+                                "display_url": "tsuchiya-masatada.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2143,
+                "friends_count": 53,
+                "listed_count": 109,
+                "created_at": "Mon Dec 01 11:08:55 +0000 2014",
+                "favourites_count": 23,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 1978,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/854964400276389891/-IUtt5c0_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/854964400276389891/-IUtt5c0_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2915536712/1466582789",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 816,
+            "favorite_count": 2266,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        "is_quote_status": false,
+        "retweet_count": 816,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Fri Oct 29 06:31:42 +0000 2021",
+        "id": 1453972794513920003,
+        "id_str": "1453972794513920003",
+        "full_text": "財務大臣政務官としてG20財務大臣・中央銀行総裁会合の福岡開催における準備責任者として立派に責任を果たした井上貴博候補。高島市長とタッグで地元福岡の飛躍的発展に力を尽くします。どうぞ宜しくお願いします。#福岡1区 https://t.co/lDAvR16FYF",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            106
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "福岡1区",
+                    "indices": [
+                        101,
+                        106
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1453972379752071168,
+                    "id_str": "1453972379752071168",
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1453972379752071168/pu/img/CMt6yi5D8wNFulQR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1453972379752071168/pu/img/CMt6yi5D8wNFulQR.jpg",
+                    "url": "https://t.co/lDAvR16FYF",
+                    "display_url": "pic.twitter.com/lDAvR16FYF",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1453972794513920003/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1453972379752071168,
+                    "id_str": "1453972379752071168",
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1453972379752071168/pu/img/CMt6yi5D8wNFulQR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1453972379752071168/pu/img/CMt6yi5D8wNFulQR.jpg",
+                    "url": "https://t.co/lDAvR16FYF",
+                    "display_url": "pic.twitter.com/lDAvR16FYF",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1453972794513920003/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 27025,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1453972379752071168/pu/vid/640x360/nxXePUZp8L3NOxI7.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1453972379752071168/pu/vid/480x270/mqqzwkcagQBbc2u1.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1453972379752071168/pu/vid/1280x720/mybmfWZZBCWlhwRr.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1453972379752071168/pu/pl/A4I-WJDSN41uwlHH.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3126,
+        "favorite_count": 16098,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    {
+        "created_at": "Fri Oct 29 01:00:05 +0000 2021",
+        "id": 1453889342678573063,
+        "id_str": "1453889342678573063",
+        "full_text": "皆さまの大切な一票がこの国を守ります。ワクチン接種率は70%を越えました。このコロナ禍を乗り越えるためには、引き続き安定した自公連立政権しかありません。宜しくお願いします。#選挙に行きましょう\nhttps://t.co/U6HJXlmnui https://t.co/di5ZnjnVkA",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            120
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "選挙に行きましょう",
+                    "indices": [
+                        86,
+                        96
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/U6HJXlmnui",
+                    "expanded_url": "https://youtu.be/kyHliJgykak",
+                    "display_url": "youtu.be/kyHliJgykak",
+                    "indices": [
+                        97,
+                        120
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1453889337889005568,
+                    "id_str": "1453889337889005568",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FC1ApleaIAATB80.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FC1ApleaIAATB80.jpg",
+                    "url": "https://t.co/di5ZnjnVkA",
+                    "display_url": "pic.twitter.com/di5ZnjnVkA",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1453889342678573063/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 362,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 362,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 362,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1453889337889005568,
+                    "id_str": "1453889337889005568",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FC1ApleaIAATB80.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FC1ApleaIAATB80.jpg",
+                    "url": "https://t.co/di5ZnjnVkA",
+                    "display_url": "pic.twitter.com/di5ZnjnVkA",
+                    "expanded_url": "https://twitter.com/AbeShinzo/status/1453889342678573063/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 362,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 362,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 362,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 468122115,
+            "id_str": "468122115",
+            "name": "安倍晋三",
+            "screen_name": "AbeShinzo",
+            "location": "",
+            "description": "衆議院議員安倍晋三（あべしんぞう）の公式twitterです。",
+            "url": "https://t.co/9EkvILPzUL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9EkvILPzUL",
+                            "expanded_url": "http://www.s-abe.or.jp/",
+                            "display_url": "s-abe.or.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2305677,
+            "friends_count": 22,
+            "listed_count": 13084,
+            "created_at": "Thu Jan 19 06:02:29 +0000 2012",
+            "favourites_count": 37,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1765776666/s-abetwitter1_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/468122115/1507347517",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2549,
+        "favorite_count": 13976,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    }
+]
