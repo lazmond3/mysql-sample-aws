@@ -3,5 +3,5 @@ variable "vpc_id" {
   default = "vpc-0219c5015d0627f06"
 }
 variable "password" {
-  type    = string
+  type = string
 }

@@ -24,7 +24,7 @@ resource "aws_db_parameter_group" "main" {
   }
 
   parameter {
-    name = "log_bin_trust_function_creators"
+    name  = "log_bin_trust_function_creators"
     value = "1"
 
   }
