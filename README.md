@@ -1,5 +1,8 @@
 # 最初に
 
+このリポジトリは https://github.com/lazmond3/aws-systems に移動しました。
+
+
 まずpython3 が入ってるか確認します。
 
 ```bash
@@ -19,3 +22,5 @@ python のスクリプトを実行してみましょう。
 ```bash
 PASSWORD=<ここにパスワードを書いてね> python3 scripts/3-sample_crud.py
 ```
+
+
